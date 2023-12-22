@@ -3,6 +3,23 @@
 *{
     background-color: black;
 }
+
+.perfil{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+
+.barra{
+    position: sticky;
+    color: white;
+}
+
+.nav{
+    color: white;
+    position: fixed;
+}
+
 .division{
     display: grid;
     grid-template-columns: 40% 60%;
